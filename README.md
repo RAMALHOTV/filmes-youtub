@@ -1,6 +1,25 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item><title>Na rota do tráfico [COLOR yellow](2020)[/COLOR]</title><utube>aRiPR5fPU_k</utube><thumbnail>https://media.fstatic.com/0csNtyVx_OOy7rNkxhESjiMOfro=/290x478/smart/media/movies/covers/2020/06/0159661_335.jpg</thumbnail><fanart>https://media.fstatic.com/0csNtyVx_OOy7rNkxhESjiMOfro=/290x478/smart/media/movies/covers/2020/06/0159661_335.jpg</fanart></item>
  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>O PREDADOR[COLOR yellow](1987)[/COLOR]</title><utube>rg3oCgSdPew</utube><thumbnail>https://http2.mlstatic.com/o-predador-1987-a-2018-coleco-04-filmes-D_NQ_NP_839033-MLB29321919552_022019-F.jpg</thumbnail><fanart>https://tribunademinas.com.br/wp-content/uploads/2018/09/o-predador-2018.jpg</fanart></item>
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> Inferno[COLOR yellow](1999)[/COLOR]</title><utube>jLc8dyvV8ME</utube><thumbnail>https://3.bp.blogspot.com/_MC9XvQiuf24/Sw1KvPyrPGI/AAAAAAAAD8k/e8MSYUTC77Y/s1600/inferno-1999.jpg</thumbnail><fanart>https://imagem.band.com.br/f_476875.jpg</fanart></item>
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>Leão Branco O lutador sem lei[COLOR yellow](1990)[/COLOR]</title><utube>-xymgeTRBv4</utube><thumbnail>https://images-na.ssl-images-amazon.com/images/I/71scRN44CPL._AC_SY550_.jpg</thumbnail><fanart>https://i.ytimg.com/vi/UBuIbhl7XJk/maxresdefault.jpg</fanart></item>
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>KickBoxer - O Desafio do Dragão[COLOR yellow](1989)[/COLOR]</title><utube>exkidVHt9ps</utube><thumbnail>https://media.fstatic.com/GGt8QZ8ehdeZbJi-cBtpHFMGUgI=/290x478/smart/media/movies/covers/2020/06/y.jpg</thumbnail><fanart>https://ottvsimg.ottvs.com.br/ban/amz.043062/looke_4001.jpg</fanart></item>
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>Cyborg [COLOR yellow](1989)[/COLOR]</title><utube>Le6kREFYlL8</utube><thumbnail>https://images-na.ssl-images-amazon.com/images/I/91wbHPhv8KL._AC_SL1500_.jpg</thumbnail><fanart>https://theactionelite.com/wp-content/uploads/2018/03/cybordblurayhead.jpg</fanart></item>
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item><title>The Old Guard[COLOR yellow](2020)[/COLOR]</title><utube>BbnIO9b9XGs</utube><thumbnail>https://www.arrobanerd.com.br/wp-content/uploads/2020/07/the-old-guard-netflix-critica.jpg</thumbnail><fanart>https://img.ibxk.com.br/2020/07/24/24153631606512.jpg?w=1120&h=420&mode=crop&scale=both</fanart></item>
