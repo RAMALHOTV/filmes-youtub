@@ -1,3 +1,33 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>Na rota do tráfico [COLOR yellow](2020)[/COLOR]</title><utube>aRiPR5fPU_k</utube><thumbnail>https://media.fstatic.com/0csNtyVx_OOy7rNkxhESjiMOfro=/290x478/smart/media/movies/covers/2020/06/0159661_335.jpg</thumbnail><fanart>https://media.fstatic.com/0csNtyVx_OOy7rNkxhESjiMOfro=/290x478/smart/media/movies/covers/2020/06/0159661_335.jpg</fanart></item>
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>The Old Guard[COLOR yellow](2020)[/COLOR]</title><utube>BbnIO9b9XGs</utube><thumbnail>https://www.arrobanerd.com.br/wp-content/uploads/2020/07/the-old-guard-netflix-critica.jpg</thumbnail><fanart>https://img.ibxk.com.br/2020/07/24/24153631606512.jpg?w=1120&h=420&mode=crop&scale=both</fanart></item>
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>Fuga [COLOR yellow](2018)[/COLOR]</title><utube>Gyffu7FjII0</utube><thumbnail>https://media.fstatic.com/ZZJz_2Bt33tOtjfG_-Zbm_mlAV4=/290x478/smart/media/movies/covers/2019/08/71229_f1.jpg</thumbnail><fanart>https://i.ytimg.com/vi/Gyffu7FjII0/maxresdefault.jpg</fanart></item>
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>CURSED - A Lenda do Lago[COLOR yellow](2014)[/COLOR]</title><utube>3UBYR0NhtN4</utube><thumbnail>https://images-na.ssl-images-amazon.com/images/I/91cVTzqMgzL.jpg</thumbnail><fanart>https://i0.wp.com/www.meugamer.com/wp-content/uploads/2020/06/cursed-a-lenda-do-lago.jpg?fit=1200%2C675&ssl=1</fanart></item>
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>o justiceiro fora da lei[COLOR yellow](2014)[/COLOR]</title><utube>OAYqMhNNfdM</utube><thumbnail>https://i.ytimg.com/vi/OAYqMhNNfdM/hqdefault.jpg</thumbnail><fanart>https://i.ytimg.com/vi/DUAyQ8yxg38/maxresdefault.jpg</fanart></item>
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>A justiseira [COLOR yellow](2018)[/COLOR]</title><utube>pfJh-QpkqoE</utube><thumbnail>https://br.web.img3.acsta.net/pictures/18/09/26/19/52/0424799.jpg</thumbnail><fanart>https://statig2.akamaized.net/bancodeimagens/8f/4i/3s/8f4i3s4feb34yjaubbcjfu9ug.jpg</fanart></item>
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>ALFA[COLOR yellow](2019)[/COLOR]</title><utube>DUAyQ8yxg38</utube><thumbnail>https://www.cinemark.com.br//content/uploads/movie/6294/alfa-poster-desktop.jpg</thumbnail><fanart>https://i.ytimg.com/vi/rRAV2V9bPZg/hqdefault.jpg</fanart></item>
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
 <item><title>Mandando Bala [COLOR yellow](2002)[/COLOR]</title><utube>qABoIjBy1Yo</utube><thumbnail>https://http2.mlstatic.com/dvd-mandando-bala-original-D_NQ_NP_715439-MLB29049988689_122018-F.jpg</thumbnail><fanart>https://i.ytimg.com/vi/j9zj3gyI5Os/hqdefault.jpg</fanart></item>
  
 <item><title>Sansão[COLOR yellow](2015)[/COLOR]</title><utube>YdKlbRDnZJk</utube><thumbnail>https://www.vortexcultural.com.br/images/2018/09/Sansao.jpg</thumbnail><fanart>https://www.zoommagazine.com.br/wp-content/uploads/2018/12/ldododo.jpg</fanart></item>
