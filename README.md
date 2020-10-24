@@ -1,4 +1,21 @@
 <item>
+<title>[B]Caçada Implacável [COLOR yellow](2019)[/COLOR] - [COLOR red](HDCAM)[/COLOR][/B] </title>
+<utube></utube>
+<thumbnail>http://br.web.img2.acsta.net/c_215_290/pictures/13/12/23/17/28/249696.jpg</thumbnail>
+<fanart>http://br.web.img2.acsta.net/c_215_290/pictures/13/12/23/17/28/249696.jpg</fanart>
+<info>Após o assassinato do policial Lee Davis da patrulha da fronteira, Jim Rhodes abandona sua carreira e se muda com sua filha Kim para o estado de Montana. Lá, sua filha é raptada e Rhodes terá que usar toda a sua capacidade para fazer justiça com as próprias mãos.</info>
+</item>
+
+
+<item>
+<title>[B]O Retorno dos Vermes Malditos[COLOR yellow](2019)[/COLOR] - [COLOR red](HDCAM)[/COLOR][/B] </title>
+<utube>OFia93Q4a84</utube>
+<thumbnail>https://i.ytimg.com/vi/efHMJiTwe60/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/efHMJiTwe60/hqdefault.jpg</fanart>
+<info>Uma companhia petrolífera perturba um ninho de vermes gigantescos e carnívoros no deserto da Mongólia. Pouco depois, as criaturas monstruosas começam a se reproduzir e proliferar, devorando tudo e todos pelo caminho.</info>
+</item>
+
+<item>
 <title>[B]A Fortaleza[COLOR yellow](1986 )[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
 <utube>cPbaiT72cXw</utube>
 <thumbnail>http://br.web.img3.acsta.net/c_215_290/pictures/13/12/05/19/39/122922.jpg</thumbnail>
