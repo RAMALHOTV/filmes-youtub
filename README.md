@@ -6,7 +6,13 @@
 <info>Em 1973, a polícia texana deu como encerrado o caso de um terrível massacre de 33 pessoas provocado por um homem que usava uma máscara feita de pele humana. Nos anos que se seguiram os policiais foram acusados de fazer uma péssima investigação e de terem matado o cara errado. Só que dessa vez, o único sobrevivente do massacre vai contar em detalhes o que realmente aconteceu na deserta estrada do Texas, quando ele e mais 4 amigos estavam indo visitar o seu avô.</info>
 </item>
 
-
+<item>
+<title>[B]Sequestro e Fuga[COLOR yellow](2019)[/COLOR] - [COLOR red](HDCAM)[/COLOR][/B] </title>
+<utube>A4v9dINhtW0</utube>
+<thumbnail>https://i.ytimg.com/vi/A4v9dINhtW0/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/A4v9dINhtW0/maxresdefault.jpg</fanart>
+<info>A vida de um casal muda radicalmente quando parentes resolvem sequestrar o filho de um empresário. Eles entregam o menino e o dinheiro do resgate para policia, mas os oficiais hesitam em levar o garoto de volta para casa, pois ele é abusado pelo pai.</info>
+</item>
 <item>
 <title>[B]Ninja - O Guerreiro Imortal[COLOR yellow](2014)[/COLOR] - [COLOR red](HDCAM)[/COLOR][/B] </title>
 <utube>kUSSvL1vcL0</utube>
