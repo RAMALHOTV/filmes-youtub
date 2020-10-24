@@ -1,4 +1,30 @@
 <item>
+<title>[B]O Massacre da Serra Elétrica[COLOR yellow](1994)[/COLOR] - [COLOR red](HDCAM)[/COLOR][/B] </title>
+<utube>J0VYgmOSMS0</utube>
+<thumbnail>https://br.web.img2.acsta.net/pictures/210/069/21006915_2013051800092352.jpg</thumbnail>
+<fanart>https://br.web.img2.acsta.net/pictures/210/069/21006915_2013051800092352.jpg</fanart>
+<info>Em 1973, a polícia texana deu como encerrado o caso de um terrível massacre de 33 pessoas provocado por um homem que usava uma máscara feita de pele humana. Nos anos que se seguiram os policiais foram acusados de fazer uma péssima investigação e de terem matado o cara errado. Só que dessa vez, o único sobrevivente do massacre vai contar em detalhes o que realmente aconteceu na deserta estrada do Texas, quando ele e mais 4 amigos estavam indo visitar o seu avô.</info>
+</item>
+
+
+<item>
+<title>[B]Ninja - O Guerreiro Imortal[COLOR yellow](2014)[/COLOR] - [COLOR red](HDCAM)[/COLOR][/B] </title>
+<utube>kUSSvL1vcL0</utube>
+<thumbnail>https://br.web.img3.acsta.net/pictures/15/10/20/13/56/522980.jpg</thumbnail>
+<fanart>https://br.web.img3.acsta.net/pictures/15/10/20/13/56/522980.jpg</fanart>
+<info>Reeve (Rob Baard) tem um passado como ninja em uma organização governamental secreta - agora supostamente extinta - que volta à sua vida quando ele é capturado e torturado a mando de autoridades desse mesmo governo. Seu mentor John Carpenter (Roger Neave) se une a ele em um esforço de explorar e aperfeiçoar as técnicas Ninjutsu para que ele consiga se lembrar de tudo o que aconteceu e finalmente obter sua vingança</info>
+</item>
+
+<item>
+<title>[B]Perseguição Implacável[COLOR yellow](2019)[/COLOR] - [COLOR red](HDCAM)[/COLOR][/B] </title>
+<utube>feyXIbsy9io</utube>
+<thumbnail>https://a-static.mlcdn.com.br/1500x1500/dvd-perseguicao-implacavel-playarte/videoperola/9539/7a6e7abc4f5432ba02d601239f16e675.jpg</thumbnail>
+<fanart>https://a-static.mlcdn.com.br/1500x1500/dvd-perseguicao-implacavel-playarte/videoperola/9539/7a6e7abc4f5432ba02d601239f16e675.jpg</fanart>
+<info>As férias de verão têm início e apenas uma idéia ronda a mente de Lewis Thomas (Paul Walker): partir com a garota dos seus sonhos, Venna (Leelee Sobieski), em uma viagem de carro pelos Estados Unidos. Mas seus planos são alterados quando ele é obrigado a salvar Fuller (Steve Zahn), seu irmão mais velho, que é conhecido por sempre causar problemas. Em uma de suas brincadeiras Fuller acaba envolvendo um motorista de caminhão solitário, que decide se vingar dele e de todas as pessoas que estiverem juntas de qualquer maneira.</info>
+</item>
+
+
+<item>
 <title>[B]Caçada Implacável [COLOR yellow](2019)[/COLOR] - [COLOR red](HDCAM)[/COLOR][/B] </title>
 <utube>PeuAU5FEavQ</utube>
 <thumbnail>http://br.web.img2.acsta.net/c_215_290/pictures/13/12/23/17/28/249696.jpg</thumbnail>
