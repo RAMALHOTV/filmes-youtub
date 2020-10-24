@@ -1,4 +1,19 @@
 <item>
+<title>[B]Sobreviventes[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>nN6J9agXgls</utube>
+<thumbnail>https://br.web.img3.acsta.net/c_215_290/pictures/15/08/04/21/37/556902.jpg</thumbnail>
+<fanart>https://br.web.img3.acsta.net/c_215_290/pictures/15/08/04/21/37/556902.jpg</fanart>
+<info>Jenn, uma executiva que vive ocupada, é, finalmente, convencida pelo seu namorado Alex a embarcar com ele em uma viagem para o campo, a fim de fugir das pressões da cidade grande. Após um inquietante encontro com um estranho homem, Brad, em sua primeira noite no meio da floresta, eles seguem viagem. Mas depois de três dias, os dois se encontram perdidos, sem comida ou água. Até que eles percebem que entraram no território de um urso predatório. </info>
+</item>
+
+<item>
+<title>[B]Passagem Para o Inferno[COLOR yellow](1999)[/COLOR] - [COLOR red](HDCAM)[/COLOR][/B] </title>
+<utube>CknBiYNc45Y</utube>
+<thumbnail>https://media.fstatic.com/b_NdnbG3DnsYf8A7EL7MnTlgO2U=/290x478/smart/media/movies/covers/2011/07/3dd6c2034f638d5c1859be51eec2aea1.jpg</thumbnail>
+<fanart>https://media.fstatic.com/b_NdnbG3DnsYf8A7EL7MnTlgO2U=/290x478/smart/media/movies/covers/2011/07/3dd6c2034f638d5c1859be51eec2aea1.jpg</fanart>
+<info>Um guerreiro quer se casar com a filha de um antigo inimigo numa manobra para consolidar sua nova posição. Mas a princesa não está interessada e, para piorar, outro guerreiro rival está de olho nela.</info>
+</item>
+<item>
 <title>[B]O Massacre da Serra Elétrica[COLOR yellow](1994)[/COLOR] - [COLOR red](HDCAM)[/COLOR][/B] </title>
 <utube>J0VYgmOSMS0</utube>
 <thumbnail>https://br.web.img2.acsta.net/pictures/210/069/21006915_2013051800092352.jpg</thumbnail>
