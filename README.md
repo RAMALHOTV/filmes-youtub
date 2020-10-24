@@ -1,3 +1,11 @@
+<item>
+<title>[B]A Fortaleza[COLOR yellow](1986 )[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>cPbaiT72cXw</utube>
+<thumbnail>http://br.web.img3.acsta.net/c_215_290/pictures/13/12/05/19/39/122922.jpg</thumbnail>
+<fanart>http://br.web.img3.acsta.net/c_215_290/pictures/13/12/05/19/39/122922.jpg</fanart>
+<info>A professora australiana Sally Jones (Rachel Ward) e seus alunos estão em mais um dia comum na escola quando são sequestrados e coagidos a entrarem em uma van por homens mascarados - eles usam assustadoras máscaras de animais e Papai Noel. Os bandidos levam Sally e as crianças para uma gruta e os deixam lá para resolverem as demandas do . </info>
+</item>
+
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item><title>Na rota do tráfico [COLOR yellow](2020)[/COLOR]</title><utube>aRiPR5fPU_k</utube><thumbnail>https://media.fstatic.com/0csNtyVx_OOy7rNkxhESjiMOfro=/290x478/smart/media/movies/covers/2020/06/0159661_335.jpg</thumbnail><fanart>https://media.fstatic.com/0csNtyVx_OOy7rNkxhESjiMOfro=/290x478/smart/media/movies/covers/2020/06/0159661_335.jpg</fanart></item>
  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
