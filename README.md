@@ -5,6 +5,13 @@
 <fanart>https://br.web.img2.acsta.net/pictures/210/069/21006915_2013051800092352.jpg</fanart>
 <info>Em 1973, a polícia texana deu como encerrado o caso de um terrível massacre de 33 pessoas provocado por um homem que usava uma máscara feita de pele humana. Nos anos que se seguiram os policiais foram acusados de fazer uma péssima investigação e de terem matado o cara errado. Só que dessa vez, o único sobrevivente do massacre vai contar em detalhes o que realmente aconteceu na deserta estrada do Texas, quando ele e mais 4 amigos estavam indo visitar o seu avô.</info>
 </item>
+<item>
+<title>[B]Conan[COLOR yellow]()[/COLOR] - [COLOR red](HDCAM)[/COLOR][/B] </title>
+<utube>A2cpgTywoHI</utube>
+<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/95/80/79/20428505.jpg</thumbnail>
+<fanart>https://uploads.jovemnerd.com.br/wp-content/uploads/2018/02/conan-amazon.png</fanart>
+<info></info>
+</item>
 
 <item>
 <title>[B]Sequestro e Fuga[COLOR yellow](2019)[/COLOR] - [COLOR red](HDCAM)[/COLOR][/B] </title>
