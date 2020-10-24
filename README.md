@@ -1,6 +1,6 @@
 <item>
 <title>[B]Caçada Implacável [COLOR yellow](2019)[/COLOR] - [COLOR red](HDCAM)[/COLOR][/B] </title>
-<utube></utube>
+<utube>PeuAU5FEavQ</utube>
 <thumbnail>http://br.web.img2.acsta.net/c_215_290/pictures/13/12/23/17/28/249696.jpg</thumbnail>
 <fanart>http://br.web.img2.acsta.net/c_215_290/pictures/13/12/23/17/28/249696.jpg</fanart>
 <info>Após o assassinato do policial Lee Davis da patrulha da fronteira, Jim Rhodes abandona sua carreira e se muda com sua filha Kim para o estado de Montana. Lá, sua filha é raptada e Rhodes terá que usar toda a sua capacidade para fazer justiça com as próprias mãos.</info>
