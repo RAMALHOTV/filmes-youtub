@@ -1,3 +1,45 @@
+
+<item>
+<title>[B]O APOCALIPSE[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>3ypyxJ0_dM8</utube>
+<thumbnail>https://br.web.img2.acsta.net/pictures/14/09/17/18/01/274721.jpg</thumbnail>
+<fanart>https://br.web.img2.acsta.net/pictures/14/09/17/18/01/274721.jpg</fanart>
+<info> </info>
+</item>
+
+
+<item>
+<title>[B]CARGA EXPLOSIVA 3[COLOR yellow](2004)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>62oXnkZr-xw</utube>
+<thumbnail>https://br.web.img2.acsta.net/medias/nmedia/18/87/02/75/19871245.jpg</thumbnail>
+<fanart>https://br.web.img2.acsta.net/medias/nmedia/18/87/02/75/19871245.jpg</fanart>
+<info>A última tarefa de Frank Martin é proteger Valentina, a cínica filha de um oficial ucraniano. Enquanto seu pai pensa sobre o que fazer com três barcos carregados de resíduos tóxicos, Frank deve proteger a mulher problemática e impedí-la de se afastar muito de seu veículo ou evitar o risco de detonar os explosivos que os dois estão vestidos. </info>
+</item>
+
+<item>
+<title>[B]CARGA EXPLOSIVA 1[COLOR yellow](2000)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>lwWM9h_98Ds</utube>
+<thumbnail>https://musicart.xboxlive.com/7/f9f85000-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080</thumbnail>
+<fanart>https://musicart.xboxlive.com/7/f9f85000-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080</fanart>
+<info>O ex-operador das Forças Especiais Frank Martin vive o que parece ser uma vida tranquila ao longo do Mediterrâneo francês. Na verdade ele é um transportador mercenário levando bens, humanos ou não, de um lugar para outro, sem fazer perguntas sobre que tipo de mercadoria foi contratado para transportar. </info>
+</item>
+
+<item>
+<title>[B]CARGA EXPLOSIVA  2[COLOR yellow](2002)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>AHH1p4eV7tQ</utube>
+<thumbnail>https://br.web.img2.acsta.net/medias/nmedia/18/90/48/84/20099262.JPG</thumbnail>
+<fanart>https://br.web.img2.acsta.net/medias/nmedia/18/90/48/84/20099262.JPG</fanart>
+<info>O motorista profissional Frank Martin está morando em Miami. Ele substitui temporariamente um amigo que é chofer de um político que combate o narcotráfico e de sua família. Quando o filho do político é sequestrado, Frank decide resgatá-lo e expor os criminosos. </info>
+</item>
+<item>
+<title>[B]CARGA EXPLOSIVA O LEGADO[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>1fkHydohns0</utube>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61L6NrSENiL._AC_SL1000_.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/_msoeTylsFk/maxresdefault.jpg</fanart>
+<info> </info>
+</item>
+
+
 <item>
 <title>[B]Sobreviventes[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
 <utube>nN6J9agXgls</utube>
