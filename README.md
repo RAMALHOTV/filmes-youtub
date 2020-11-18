@@ -1,3 +1,36 @@
+<item>
+<title>[B]A Caminho da Lua[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>U1pFHgkxK0E</utube>
+<thumbnail>https://br.web.img3.acsta.net/pictures/20/09/09/18/55/1869620.jpg</thumbnail>
+<fanart>https://ibcdn.canaltech.com.br/wr6qwJMBksSGwHzYiF1URlkX-ag=/700x394/smart/i12174.jpeg</fanart>
+<info>Over the Moon é um filme de comédia de fantasia e aventura musical de 2020, animado por computador, dirigido por Glen Keane e co-dirigido por John Kahrs, a partir de um roteiro de Audrey Wells com a colaboração de Alice Wu e Jennifer Yee McDevitt </info>
+</item>
+
+<item>
+<title>[B]A Fortaleza[COLOR yellow](1993)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>cPbaiT72cXw</utube>
+<thumbnail>https://br.web.img3.acsta.net/c_215_290/pictures/210/489/21048981_20131011234846989.jpg</thumbnail>
+<fanart>https://br.web.img3.acsta.net/c_215_290/pictures/210/489/21048981_20131011234846989.jpg</fanart>
+<info>Ex-soldado enviado a prisão subterrânea de segurança máxima. Ao descobrir que a vida de sua mulher corre perigo, nem o avançado computador que controla a prisão nem o cruel diretor serão capazes de detê-lo. </info>
+</item>
+
+<item>
+<title>[B]BATER OU CORRER EM LONDRES[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>pbMKSoNymRk</utube>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/b/bf/Shanghai_knights.jpg/220px-Shanghai_knights.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/thumb/b/bf/Shanghai_knights.jpg/220px-Shanghai_knights.jpg</fanart>
+<info>Dois amigos fazem uma viagem no tempo a Londres, no século 19, para recuperar o Selo Imperial da China, que foi roubado por um lorde inglês demoníaco. No caminho, eles conhecem Jack, o Estripador, Sir Arthur Conan Doyle e Charlie Chaplin ainda jovem. Tudo isso regado a muita ação e kung fu. </info>
+</item>
+
+
+<item>
+<title>[B]A ERA DO GELO 5 O BIG BANG[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>suJJKUXDYqk</utube>
+<thumbnail>https://br.web.img3.acsta.net/pictures/16/01/18/22/28/052277.jpg</thumbnail>
+<fanart>https://www.corujinhalulu.com/wp-content/uploads/2016/07/resenha_a_era_do_gelo_5_o_big_bang_filme_critica_analise_corujinhalulu-1200x900.png</fanart>
+<info> Após uma nova trapalhada de Scat, uma catástrofe cósmica ameaça a vida na Terra, obrigando Manny, Ellie, Diego, Shira e Sid a deixarem seus lares.</info>
+</item>
+
 
 <item>
 <title>[B]O APOCALIPSE[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
