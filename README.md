@@ -7,7 +7,29 @@
 <info> </info>
 </item>
 
+<item>
+<title>[B]Asassinos[COLOR yellow]()[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>bSgBw7krFs4</utube>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/8/8d/ASSASSINS95.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/8/8d/ASSASSINS95.jpg</fanart>
+<info>Um veterano assassino profissional, que é considerado o melhor no ramo, pensa em sair do negócio, mas resolve aceitar como último trabalho eliminar uma hacker. Ele acaba sendo traído pelo contratante, passando então a ser caçado por um jovem assassino que planeja matá-lo para ficar no seu lugar. Entretanto, esta situação obriga-o a se unir à mulher que pretendia matar. </info>
+</item>
 
+<item>
+<title>[B]O Cobrador de Dividas 2[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>Xhxj_clTvPs</utube>
+<thumbnail>https://assetsgn.nowonline.com.br/assets/p18097744_v_v12_af.jpg?api_key=snfwq54bnzvgucd7cqvgt86r</thumbnail>
+<fanart>https://assetsgn.nowonline.com.br/assets/p18097744_v_v12_af.jpg?api_key=snfwq54bnzvgucd7cqvgt86r</fanart>
+<info>Um especialista em artes marciais começa a trabalhar para a máfia local. O trabalho parece simples, até que um dos clientes o envolve em uma situação muito mais complicada do que o esperado. </info>
+</item>
+
+<item>
+<title>[B]O Retorno dos Vermes Malditos [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>OFia93Q4a84</utube>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/71-5eXq5B8L._AC_SX569_.jpg</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/71-5eXq5B8L._AC_SX569_.jpg</fanart>
+<info>Uma companhia petrolífera perturba um ninho de vermes gigantescos e carnívoros no deserto da Mongólia. Pouco depois, as criaturas monstruosas começam a se reproduzir e proliferar, devorando tudo e todos pelo caminho. </info>
+</item>
 <item>
 <title>[B]CARGA EXPLOSIVA 3[COLOR yellow](2004)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
 <utube>62oXnkZr-xw</utube>
