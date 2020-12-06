@@ -1,3 +1,113 @@
+
+
+<item>
+<title>[B]Vingança Entre Assassinos [COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>LSzObg4C8Sw</utube>
+<thumbnail>https://br.web.img3.acsta.net/pictures/14/07/29/18/54/525798.jpg</thumbnail>
+<fanart>https://entreterse.s3.amazonaws.com/wp-content/uploads/2019/09/Vingan%C3%A7a-Entre-Assassinos.jpeg</fanart>
+<info>Um grupo formado pelos homens mais ricos e poderosos do mundo, com conexões na polícia e no mundo do crime, e que também controla a mídia internacional com seus bilhões, resolveu criar uma forma única de entretenimento: a cada sete anos, trinta dos assassinos mais violentos e implacáveis do mundo se enfrentam de olho em um incrível prêmio em dinheiro. Há somente uma regra: mate ou morra. Os "organizadores", por sua vez, assistem à batalha mortal em um circuito fechado de TV. </info>
+</item>
+
+
+<item>
+<title>[B]O Carro Desgovernado[COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>gzzQGvwAH-0</utube>
+<thumbnail>https://media.fstatic.com/omUQ8MLtNuZ8UmsrBIQR_kE6l1U=/290x478/smart/media/movies/covers/2011/01/c2a1dae00367b9f89f9ecb389fbc6452.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/rBzccU33XsE/hqdefault.jpg</fanart>
+<info>Jenny oferece carona a Ed, cujo carro está passando por um conserto, e logo em seguida recolhe também um rapaz, depois de quase atropelá-lo na rua. Sem aviso, o carro perde completamente os freios, dando início a uma corrida potencialmente fatal. </info>
+</item>
+
+<item>
+<title>[B]Expresso Transiberiano [COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>J_jfuSgmT5E</utube>
+<thumbnail>https://br.web.img3.acsta.net/pictures/15/07/23/19/18/411332.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/J_jfuSgmT5E/maxresdefault.jpg</fanart>
+<info>Voltando para casa da China, os cristãos missionários Roy e Jessie pegam um trem de Pequim para Moscou. A bordo, eles conhecem Carlos e Abby. Quando Roy não retorna a tempo em uma parada, Jessie o espera na próxima estação. Carlos e Abby ficam com ela, insistindo que a cidade é perigosa. No entanto, as tentativas de Carlos de se aproximar de Jessie mudam radicalmente a dinâmica da viagem.</info>
+</item>
+
+
+<item>
+<title>[B]O Colecionador de Corpos [COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>W2sCecXzQaU</utube>
+<thumbnail>https://br.web.img3.acsta.net/c_310_420/pictures/202/697/20269772_20131022101935487.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/qnZuhbSd3gM/maxresdefault.jpg</fanart>
+<info>Um ex-presidiário precisa quitar uma dívida antes da meia-noite e, como ele não tem o dinheiro, ele resolve assaltar a casa do seu patrão. Ao tentar abrir o cofre, ele descobre que um assassino em série está na casa aterrorizando a família e percebe que ele é a única esperança que a família tem de se salvar.
+Data de lançamento: 31 de julho de 2009 </info>
+</item>
+
+<item>
+<title>[B]Caçada Explosiva [COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>tAEWEmrPZWE</utube>
+<thumbnail>https://cdn.mercidisco.com.br/image/cache/data/dvd-cacada-explosiva-800x800.jpg</thumbnail>
+<fanart>https://cdn.mercidisco.com.br/image/cache/data/dvd-cacada-explosiva-800x800.jpg</fanart>
+<info>Jacob Stilwell, detetive da divisão de homicídios conhecido por seu rigor, sai à caça de um assassino serial que aterroriza a cidade de Memphis. Para chegar ao psicopata, precisa infiltrar-se no submundo. </info>
+</item>
+
+
+<item>
+<title>[B]Operação Zodíaco[COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>i65gnCVy0nc</utube>
+<thumbnail>https://br.web.img3.acsta.net/pictures/14/06/10/22/45/304915.jpg</thumbnail>
+<fanart>https://i0.wp.com/portalovertube.com/wp-content/uploads/2019/06/opera%C3%A7%C3%A3o-1024x509.jpg</fanart>
+<info>JC se dedica a recuperar antiguidades valiosas. Agora, uma empresa o contratou para encontrar doze cabeças de bronze de animais exóticos chineses, roubadas do Antigo Palácio de Verão no século 19. Leiloadas por milhões de euros cada uma, os doze artefatos representam o horóscopo chinês. JC, então, vai a Paris e conversa com Coco em busca de mais informações sobre as relíquias, mas sua missão para recuperá-las não será nada fácil. </info>
+</item>
+
+<item>
+<title>[B]Um Papai Noel Em Apuros [COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>gihd4osx7UE</utube>
+<thumbnail>https://www.spacetrek66.com.br/imagem/index/19049132/G/um_papai_noel_em_apuros.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/gihd4osx7UE/maxresdefault.jpg</fanart>
+<info>Cansados de crianças malcriadas e ingratas, os duendes do Papai Noel entram em greve. A fim de salvar o Natal, Papai Noel leva seis jovens sem escrúpulos para o seu campo de treinamento e os ensina a fazer brinquedos. A decisão não sai como esperado e Papai Noel decide desistir do Natal. Com a saída dele, os adolescentes e os duendes decidem trabalhar juntos para tentar trazer um Feliz Natal a todos. </info>
+</item>
+
+
+<item>
+<title>[B]Quebrando a Concorrência[COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>GxVdW9Um_Jk</utube>
+<thumbnail>https://i.ytimg.com/vi/GxVdW9Um_Jk/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/GxVdW9Um_Jk/maxresdefault.jpg</fanart>
+<info>Quando a performance de Max não é o suficiente para concorrer com sobrinhos de produtores e grandes, nomes, sua única opção é quebrar a concorrência - literalmente. Mas conforme os papéis ficam maiores, a competição acirrada, os riscos altos e agora com um policial à paisana em seu caminho, Max precisa lidar com sua ambição e as escolhas que tomou.
+Estrelando: Danny Nucci | Eric Roberts | Frank Cassini | J.J. Johnston | Jennifer Beals | John Cassini | Kevin Corrigan | Molly Parker
+Direção: Monika Mitchell
+Premiações: Melhor Filme - Phoenix Film Festival | Melhor Longa Metragem - Texas Film Festival </info>
+</item>
+
+
+<item>
+<title>[B]IMPACTO PROFUNDO[COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>VABu3k1Sx38</utube>
+<thumbnail>https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWZL609N/image?locale=pt-br&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg</thumbnail>
+<fanart>https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWZL609N/image?locale=pt-br&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg</fanart>
+<info>Um cometa está prestes a se chocar com a Terra e ameaça destruir toda a humanidade. Apesar do governo americano esconder o fato, uma repórter revela a verdade, obrigando as autoridades a anunciarem seu plano, na tentativa de salvar o planeta. </info>
+</item>
+
+
+<item>
+<title>[B]ROUBO SEM SAÍDA[COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>KiVd7iqlLFA</utube>
+<thumbnail>https://1.bp.blogspot.com/-auc5_GO-CnQ/W0KFODResfI/AAAAAAAASRw/QyuLhPcNEp8PZYzpz2Np_W-YZ-ty4unuACLcBGAs/s1600/images.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/25sHr9DXZIY/maxresdefault.jpg</fanart>
+<info>Um roubo milionário dá errado quando o piloto de fuga é encontrado morto. Presos em um galpão sem ter para onde ir, os ladrões questionam a lealdade um do outro, e os amigos acabam virando inimigos quando todos passam a ser suspeitos. </info>
+</item>
+
+<item>
+<title>[B]O Auto da Compadecida[COLOR yellow](2000)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>ArLA8UOWy4g</utube>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/b/bf/O_auto_da_compadecida.jpg/200px-O_auto_da_compadecida.jpg</thumbnail>
+<fanart>https://telepadi.folha.uol.com.br/wp-content/uploads/YOUTUBE/01/o-auto-da-compadecida.jpg</fanart>
+<info>O filme mostra as aventuras de João Grilo e Chicó, dois nordestinos pobres que vivem de golpes para sobreviver. Eles estão sempre enganando o povo de um pequeno vilarejo no sertão da Paraíba, inclusive o temido cangaceiro Severino de Aracaju, que os persegue pela região. Somente a aparição da Nossa Senhora poderá salvar esta dupla. </info>
+</item>
+
+
+<item>
+<title>[B][COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>bHWHQQbeCsA</utube>
+<thumbnail>https://ottvsimg.ottvs.com.br/cov/acg.062290/0062290_200.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/bHWHQQbeCsA/maxresdefault.jpg</fanart>
+<info> No campo britânico, a família Harver sai em uma viagem idílica para acampar durante o verão, onde eles podem enterrar tensões do passado e desfrutar de algum vínculo familiar. Mas quando seu acampamento é sabotado por um intruso invisível durante a noite, eles, desesperados por ajuda, chegam até fazenda antiga e assustadora onde o fazendeiro vingativo Hunt Hansen e seu filho horrivelmente deformado não estão cultivando animais… Enjaulados e esperando que seus membros sejam cortados, cozidos e comidos um de cada vez, a família Harver deve superar suas diferenças e se unir para escaparem vivos. </info>
+</item>
+
+
 <item>
 <title>[B]A Caminho da Lua[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
 <utube>U1pFHgkxK0E</utube>
