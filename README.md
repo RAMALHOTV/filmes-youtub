@@ -1,4 +1,18 @@
 
+<item>
+<title>[B]O Incrível HULK 1978[COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>yoTKVAg2hr8</utube>
+<thumbnail>https://i.pinimg.com/originals/6a/04/02/6a04027581d89dd76ab0eab3885f1008.jpg</thumbnail>
+<fanart>https://i.pinimg.com/564x/71/94/ca/7194cabd7048dd2816d1242693dd79a7.jpg</fanart>
+<info>Death in the Family é o episódio dois da série de TV live-action The Incredible Hulk . Foi originalmente exibido antes de o início da série, como um filme de duas horas, intitulado "The Return of The Incredible Hulk". Com o mundo acreditando que ele foi morto no incêndio laboratório que ceifou a vida de Elaina Marks, David continua a correr, em um esforço para evitar o repórter Jack McGee e as autoridades. Ao tentar acessar alguns sofisticados equipamentos de hospital, que podem ser a chave para a cura para suas transformações, David se depara com uma conspiração para assassinar uma jovem herdeira, cadeirante. Será que ele pode mantê-la segura e ao mesmo tempo não ser descoberto por McGee? </info>
+</item>
+<item>
+<title>[B]BloodRayne 2 - Libertação[COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>PH9lqOYeSeE</utube>
+<thumbnail>https://media.fstatic.com/gT9S-qWghQa2r6BLWDpk1V2bs8Y=/290x478/smart/media/movies/covers/2018/05/poster_opt_Dkf142J.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/c9UM7XMqNZVRrRMhaMZakuun3rD.jpg</fanart>
+<info>A bela e sensual Rayne, que é metade vampiro, se une a caçadores de demônios para salvar a pequena cidade de Deliverance de uma gangue de vaqueiros vampiros liderada por Billy the Kid. </info>
+</item>
 
 <item>
 <title>[B]Vingança Entre Assassinos [COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
