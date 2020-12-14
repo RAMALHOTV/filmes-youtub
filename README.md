@@ -8,6 +8,13 @@
 <info>Um grupo formado pelos homens mais ricos e poderosos do mundo, com conexões na polícia e no mundo do crime, e que também controla a mídia internacional com seus bilhões, resolveu criar uma forma única de entretenimento: a cada sete anos, trinta dos assassinos mais violentos e implacáveis do mundo se enfrentam de olho em um incrível prêmio em dinheiro. Há somente uma regra: mate ou morra. Os "organizadores", por sua vez, assistem à batalha mortal em um circuito fechado de TV. </info>
 </item>
 
+<item>
+<title>[B]No Gogó do Paulinho[COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>DDRnlkKTotE</utube>
+<thumbnail>https://br.web.img3.acsta.net/pictures/20/01/30/21/26/4262598.jpg</thumbnail>
+<fanart>https://conteudo.imguol.com.br/c/entretenimento/4c/2019/12/09/premio-uol-ve-tv-2019---melhor-humorista-paulinho-gogo-1575918579085_v2_1280x853.jpg</fanart>
+<info>Paulinho Gogó é conhecido por contar histórias mirabolantes. Sentado no banco da praça, ele fala sobre as aventuras que afirma ter vivido ao redor do Brasil. </info>
+</item>
 
 <item>
 <title>[B]O Carro Desgovernado[COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
