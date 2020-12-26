@@ -1,4 +1,34 @@
+<item>
+<title>[B]hotel Transilvânia 4 [COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>suPJUrWl-vQ</utube>
+<thumbnail>https://i.pinimg.com/originals/6a/2c/37/6a2c37a88336fc1fd522cfe74a384b73.jpg</thumbnail>
+<fanart>https://br.web.img2.acsta.net/newsv7/19/02/27/19/39/2792694.jpg</fanart>
+<info></info>
+</item>
 
+<item>
+<title>[B]O Reino Proibido[COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>Maurba_Puvw</utube>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/4/46/O_Reino_Proibido_Capa.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/4/46/O_Reino_Proibido_Capa.jpg</fanart>
+<info>Jason, um adolescente americano, é um grande fã do cinema de Hong Kong e de velhos filmes de kung-fu. Ao visitar uma loja de penhores em Chinatown, ele descobre a arma de um sábio chinês antigo e guerreiro, o Rei Macaco. A relíquia mágica transporta Jason de volta no tempo e ele se junta a um grupo de lendários artistas marciais em uma missão para libertar um homem preso.</info>
+</item>
+
+<item>
+<title>[B]Sobrevivendo Às Festas Com Os Parentes [COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>1KDJkXNeVG8</utube>
+<thumbnail>https://ottvsimg.ottvs.com.br/cov/mar.128581/0128581_335.jpg</thumbnail>
+<fanart>https://ottvsimg.ottvs.com.br/cov/mar.128581/0128581_335.jpg</fanart>
+<info>As irmãs Miranda e Lyla se reúnem para o Natal com suas famílias na casa de campo de seus pais. Ao longo de três dias, alegria e caos causam estragos nos planos de férias das famílias. As antigas rivalidades entre irmãos surgem para sabotar a esperança de uma temporada de diversão de fim de ano.</info>
+</item>
+
+<item>
+<title>[B]Bethany - A Amiga Imaginária [COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>AG8wVFNcMgI</utube>
+<thumbnail>https://media.fstatic.com/MIlSb_boPZyJ8N8vbEp7YiiWZCA=/290x478/smart/media/movies/covers/2017/04/bethany-2017-horror-movie-poster.jpg</thumbnail>
+<fanart>https://media.fstatic.com/MIlSb_boPZyJ8N8vbEp7YiiWZCA=/290x478/smart/media/movies/covers/2017/04/bethany-2017-horror-movie-poster.jpg</fanart>
+<info></info>
+</item>
 <item>
 <title>[B]O Incrível HULK 1978[COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
 <utube>yoTKVAg2hr8</utube>
