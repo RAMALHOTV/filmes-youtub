@@ -1,4 +1,46 @@
 <item>
+<title>[B]Olhos Famintos 2 [COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>PYQWCNO9dLI</utube>
+<thumbnail>https://d1aid1ai1ve9l.cloudfront.net/capasm/2494.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/c7xxDyF97ww/maxresdefault.jpg</fanart>
+<info>Um ônibus escolar com uma equipe de basquete fica parado no meio de uma estrada deserta. Lá, eles precisam confrontar um perigoso monstro, procurado também por um fazendeiro e seu filho, que pretendem destruí-lo de uma vez por todas.</info>
+</item>
+
+<item>
+<title>[B]Pânico no Deserto [COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>5bEtWV28sAE</utube>
+<thumbnail>https://media.fstatic.com/YrforyGMHHXQLY8ZqlpgeRDKpFg=/290x478/smart/media/movies/covers/2017/09/paniconodeserto.jpg</thumbnail>
+<fanart>https://media.fstatic.com/YrforyGMHHXQLY8ZqlpgeRDKpFg=/290x478/smart/media/movies/covers/2017/09/paniconodeserto.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B]Olhos famintos 3[COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>TdGm7PfvPxo</utube>
+<thumbnail>https://br.web.img3.acsta.net/pictures/17/08/31/12/09/184465.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/tpw_NIZr8rE/maxresdefault.jpg</fanart>
+<info>rish Jenner, agora é uma mulher rica, bem sucedida e mãe de um filho. Mesmo após 23 anos, ela permanece com os traumas causados pela perseguição de uma criatura do mal, que acabou assassinando o seu irmão. Atormentada por pesadelos que sentenciam o seu filho ao mesmo destino trágico, ela se une a outros sobreviventes para dar um fim à sanguinária entidade.</info>
+</item>
+
+<item>
+<title>[B]A Colheita Maldita [COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>1ldbg9dq4ko</utube>
+<thumbnail>https://br.web.img3.acsta.net/pictures/14/12/01/19/19/491221.jpg</thumbnail>
+<fanart>https://br.web.img3.acsta.net/pictures/14/12/01/19/19/491221.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[B]Pânico na Floresta[COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>oG6eLR1M08c</utube>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61RuiIPNBuL._AC_SX385_.jpg</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/61RuiIPNBuL._AC_SX385_.jpg</fanart>
+<info>Wrong Turn é uma série americana de filmes de terror criada por Alan B. McElroy. A série consiste em seis filmes, com um sétimo em andamento. Os filmes focalizam várias famílias de canibais deformados que caçam e matam pessoas na Virgínia Ocidental de maneiras terríveis, usando uma mistura de armadilhas</info>
+</item>
+
+
+<item>
 <title>[B]hotel Transilvânia 4 [COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
 <utube>suPJUrWl-vQ</utube>
 <thumbnail>https://i.pinimg.com/originals/6a/2c/37/6a2c37a88336fc1fd522cfe74a384b73.jpg</thumbnail>
