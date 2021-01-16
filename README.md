@@ -6,6 +6,14 @@
 <info>agora é um homem e está de volta ao violento bairro de Los Angeles, onde cresceu, para morar com o pai, que por alguma misteriosa razão tem quase a mesma idade do filho. Lá reencontra personagens igualmente incomuns, como o primo que se intitula O Maior Pesadelo da América e o animado Crazy Legs, que mesmo preso a uma cadeira de rodas sonha tornar-se bailarino. E ainda por cima se enrola com Daishiki, uma jovem bastante disposta a ensinar-lhe tudo o que sabe em matéria…
 </info>
 </item>
+<item>
+<title>[B]Mulheres Perigosas [COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>EmqcuT6VxDU</utube>
+<thumbnail>https://media.fstatic.com/64sbqShJZC5O5xpdFjoJXzch6fI=/290x478/smart/media/movies/covers/2018/03/CXlmFflUsAAZm6X.jpg</thumbnail>
+<fanart>https://cdn.tlc-massive.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%27158798.jpeg%27&ImageUrl=%27158798.jpeg%27&EntityType=%27Item%27&EntityId=%277650%27&Width=1920&Height=1080&device=web_browser&subscriptions=Anonymous</fanart>
+<info>Duas jovens veem suas vidas transformadas em um pesadelo ao aceitarem uma carona de estranhos. Katie e Sloan terminam vítimas de um grupo de psicopatas em uma pequena cidade do interior. Juntas, elas lutam pela liberdade.
+</info>
+</item>
 
 <item>
 <title>[B]Os Sobreviventes [COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
