@@ -1,4 +1,132 @@
 <item>
+<title>[B]Vizinhança Do Barulho Dublado[COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>pIXjNl85RL8</utube>
+<thumbnail>https://i.imgur.com/SaOmkAR.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/SNq9icYBd1g/maxresdefault.jpg</fanart>
+<info>agora é um homem e está de volta ao violento bairro de Los Angeles, onde cresceu, para morar com o pai, que por alguma misteriosa razão tem quase a mesma idade do filho. Lá reencontra personagens igualmente incomuns, como o primo que se intitula O Maior Pesadelo da América e o animado Crazy Legs, que mesmo preso a uma cadeira de rodas sonha tornar-se bailarino. E ainda por cima se enrola com Daishiki, uma jovem bastante disposta a ensinar-lhe tudo o que sabe em matéria…
+</info>
+</item>
+
+<item>
+<title>[B]Os Sobreviventes [COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>K_gNseIAmpo</utube>
+<thumbnail>https://br.web.img2.acsta.net/pictures/16/05/18/21/44/155411.jpg</thumbnail>
+<fanart>https://br.web.img2.acsta.net/pictures/16/05/18/21/44/155411.jpg</fanart>
+<info>Um filme de John Lyde com Danielle Chuchran, Kevin Sorbo, Melanie Stone, Abigail Mason. Quando a jovem Kate Mitra encontra um planeta habitável para o ...</info>
+</item>
+
+
+<item>
+<title>[B]Guerreiros do Amanhã [COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>JTh8iXgCnj8</utube>
+<thumbnail>https://br.web.img3.acsta.net/pictures/14/11/11/19/07/347280.jpg</thumbnail>
+<fanart>https://br.web.img3.acsta.net/pictures/14/11/11/19/07/347280.jpg</fanart>
+<info>Sete jovens saem da cidade para passar um fim de semana inesquecível acampando no meio da natureza selvagem. Na volta, sua cidade já não é a mesma, suas famílias desapareceram, e eles são os únicos capazes de lutar para libertar seu povo.</info>
+</item>
+
+
+<item>
+<title>[B]Confronto Sangrento[COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>7N_p8n9cHUs</utube>
+<thumbnail>https://ottvsimg.ottvs.com.br/cov/led.188032/0188032_335.jpg</thumbnail>
+<fanart>https://i1.wp.com/tvrevolta.com.br/wp-content/uploads/2021/01/hqdefault-49.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[B]Vício Frenético [COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>kswrosS3GBM</utube>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51HnmnqA83L._AC_.jpg</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/51HnmnqA83L._AC_.jpg</fanart>
+<info>Um pequeno ato de heroísmo, após a passagem do furacão Katrina, resulta em uma promoção para o policial Terrence McDonagh, mas também em uma lesão nas costas que causa dores constantes. Os medicamentos não funcionam e ele começa a usar narcóticos, mergulhando no mundo da corrupção.</info>
+</item>
+
+<item>
+<title>[B]No Limite [COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>Y9qIqz9HFKo</utube>
+<thumbnail>https://i.ytimg.com/vi/Y9qIqz9HFKo/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Y9qIqz9HFKo/maxresdefault.jpg</fanart>
+<info>Jimmy, um ladrão de carros de Detroit, vai para Los Angeles para recomeçar. Pelo menos isso é o que ele diz a seu irmão, Clyde. Mas ele não mudou, pois acaba sendo contratado por Roy, um gangster mexicano, para roubar um determinado carro. Quando Jimmy encontra um misterioso pacote no porta-malas deste carro, ele é empurrado para o submundo violento dos criminosos e para uma corrida contra o tempo, para se livrar dos mafiosos e tentar salvar a vida de uma menina que está doente e precisa de um rim. Com Danny Trejo de Um Drink no Inferno e Machete Kills
+</info>
+</item>
+
+<item>
+<title>[B]Flashes: Deixe a Realidade Para Trás [COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>FEVk9IM7v_Q</utube>
+<thumbnail>https://lojasaraiva.vteximg.com.br/arquivos/ids/645831/1003605109.jpg?v=636967819175670000</thumbnail>
+<fanart>https://i.ytimg.com/vi/FEVk9IM7v_Q/maxresdefault.jpg</fanart>
+<info>Sinopse: Um marido tranquilo, porém angustiado procura a ajuda de seu psiquiatra para desvendar as causas de sua vontade de viajar sem vontade entre múltiplas realidades. Ele recorre a medidas extremas para superar essa série perpétua e desorientadora de vidas alternativas para permanecer na única realidade, onde ele se encontra verdadeiramente feliz com sua esposa.
+</info>
+</item>
+
+<item>
+<title>[B]Anjo das Trevas [COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>m0ctcr97Z4g</utube>
+<thumbnail>https://capas-m.imagemfilmes.com.br/148125_000_m.jpg</thumbnail>
+<fanart>https://capas-m.imagemfilmes.com.br/148125_000_m.jpg</fanart>
+<info>Russel é mordido por um lobisomem e se vê forçado a lutar pela vida dos humanos, enfrentando uma perigosa batalha entre lobos, vampiros e seus caçadores.</info>
+</item>
+
+<item>
+<title>[B]Cães assassinos [COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>y2u7D0ztzVY</utube>
+<thumbnail>https://a-static.mlcdn.com.br/618x463/dvd-caes-assassinos-wes-craven-europa-filmes/theoriginals/4480460516/5bb85c9265b55480f31974940e109eb2.jpg</thumbnail>
+<fanart>https://a-static.mlcdn.com.br/618x463/dvd-caes-assassinos-wes-craven-europa-filmes/theoriginals/4480460516/5bb85c9265b55480f31974940e109eb2.jpg</fanart>
+<info>Os irmãos John e Matt herdam uma cabana de seu tio recém-falecido em uma ilha. Junto com a namorada de Matt, Nicki, e outros amigos em comum, os irmãos viajam para a cabana para um fim de semana relaxante. Porém, não muito tempo depois de chegar, o grupo é cercado por cães ferozes. Eles veem um outro turista, Lucas, ser comido vivo e logo descobrem o centro de treinamento onde os cães foram criados para matar.</info>
+</item>
+
+<item>
+<title>[B]Pânico no lago 1 [COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>-L9jSreX8Lk</utube>
+<thumbnail>https://i.imgur.com/GTVkD45.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/LpzFC40_ypM/mqdefault.jpg</fanart>
+<info>Depois da morte violenta de um navegador, o xerife de uma cidadezinha pede ajuda de um especialista em pesca e de uma paleontóloga, que têm de lidar com o aparecimento de um crocodilo imenso e extremamente agressivo fazendo vítima atrás de vítima.</info>
+</item>
+
+<item>
+<title>[B]COBRAS ASSASSINAS [COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>0M7JFUyC0H0</utube>
+<thumbnail>https://br.web.img3.acsta.net/pictures/14/04/11/21/48/112812.jpg</thumbnail>
+<fanart>https://br.web.img3.acsta.net/pictures/14/04/11/21/48/112812.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B]A Maldição das Formigas Gigantes [COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>Lwld2wxX2Z8</utube>
+<thumbnail>https://media.fstatic.com/BrQ_aQc5cjnIDclR0ZzsHnHco4U=/290x478/smart/media/movies/covers/2015/02/it-came-from-the-desert_tNone.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-SW8dZKfQ64U/WojIC5bx_6I/AAAAAAAAIPI/pS0t7r4GWOIWvXp4p6a7R1M_fApsPQyCgCLcBGAs/s1600/maldicao-das-formigas-gigantes-05.jpg</fanart>
+<info>Três adolescentes viajam para o deserto com a intenção de participar de uma festa. Eles descobrem uma instalação de pesquisas secreta, que aparentemente vinha estudando os efeitos radioativos de um meteoro em uma colônia de formigas. O resultado do experimento foram formigas gigantes, que não vão demorar para escapar e transformar a festa em um massacre.</info>
+</item>
+
+<item>
+<title>[B]Pânico no Deserto[COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>5bEtWV28sAE</utube>
+<thumbnail>https://i.ytimg.com/vi/5bEtWV28sAE/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/5bEtWV28sAE/hqdefault.jpg</fanart>
+<info>Animados, cinco estudantes cruzam o deserto de carro para participar de uma "rave" que promete ser a maior balada da temporada. Eles são o irresponsável Trip, seu grande amigo Nelson, a simpática loirinha Cookie, a séria Gretchen, e seu colega Jack. Quando Gretchen dscobre que Trip está levando droga para a festa, ela fica indignada e dá meia volta com o carro para deixar o rapaz no hotel em que haviam passado pela estrada. Porém, tudo está misteriosamente abandonado. Não há mais gasolina, nem telefone que funcione. Obrigados a passar a noite no deserto, eles aos poucos descobrem que o lugar é uma espécie de conexão entre o mundo dos mortos e dos vivos.</info>
+</item>
+
+<item>
+<title>[B]Joao e Maria Cacadores de Bruxas [COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>9Km_LOXKZGs</utube>
+<thumbnail>https://lojasaraiva.vteximg.com.br/arquivos/ids/273695/1000853325.jpg?v=636967514604800000</thumbnail>
+<fanart>https://lojasaraiva.vteximg.com.br/arquivos/ids/273695/1000853325.jpg?v=636967514604800000</fanart>
+<info>João e Maria foram abandonados pelos pais na sombria floresta e acabam indo parar na casa de uma malvada bruxa. Eliminaram a malvada e viraram verdadeiros exterminadores de criaturas do mal. Após o desaparecimento de várias crianças, os dois já adultos são contratados pelas autoridades locais para desvendar o mistério. Só que eles não imaginavam que essa nova missão iria colocá-los diante da terrível Bruxa Negra.</info>
+</item>
+
+<item>
+<title>[B]Caça as Bruxas [COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>hTwkJ5cB2qg</utube>
+<thumbnail>https://criticorevoltado.files.wordpress.com/2011/11/critico_revoltado_cac3a7a_as_bruxas.jpg</thumbnail>
+<fanart>https://criticorevoltado.files.wordpress.com/2011/11/critico_revoltado_cac3a7a_as_bruxas.jpg</fanart>
+<info>Os cavaleiros Behmen e Felton retornam das Cruzadas e encontram sua terra natal destruída pela peste negra. A Igreja acredita que a praga tenha sido causada por bruxaria e obriga os cavaleiros a conduzir uma jovem bruxa a um monastério, onde será julgada pela suspeita de ser a causadora da epidemia. Mas o caminho será bastante tortuoso e, mesmo antes de chegar ao destino, eles descobrem que estão diante de forças sobrenaturais e que o mal está além de toda e qualquer compreensão.</info>
+</item>
+
+
+
+<item>
 <title>[B]Olhos Famintos 2 [COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
 <utube>PYQWCNO9dLI</utube>
 <thumbnail>https://d1aid1ai1ve9l.cloudfront.net/capasm/2494.jpg</thumbnail>
