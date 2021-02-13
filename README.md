@@ -1,3 +1,11 @@
+
+<item>
+<title>[B]O SEGREDO DO VALE DA LUA[COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>zOrTh2aLwrI</utube>
+<thumbnail>http://br.web.img2.acsta.net/medias/nmedia/18/87/31/37/19874212.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-sGrHk_0l9nc/VzzTQsjMRRI/AAAAAAAAGyk/fe_Iv33tsuoYGFetDO29ErZ65xmtrCuqwCLcB/s1600/sVuysTMT3Zw9PcRucAGAnJ0UKak.jpg</fanart>
+<info>Uma órfã de 13 anos descobre uma maldição que divide duas famílias há séculos e que põe em risco o misterioso Vale da Lua. Para salvar o local, a jovem precisa quebrar um feitiço, contando com a ajuda de um cozinheiro maluco, sua babá, e o cão Rufus.</info>
+</item>
 <item>
 <title>[B]Vizinhança Do Barulho Dublado[COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
 <utube>pIXjNl85RL8</utube>
