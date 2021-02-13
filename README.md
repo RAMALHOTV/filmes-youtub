@@ -1,4 +1,11 @@
 
+<item>
+<title>[B]A Tartaruga e a Lebre - A Revanche do Século [COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>lSEnWblEV7Y</utube>
+<thumbnail>http://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/88/81/34/20005627.jpg</thumbnail>
+<fanart>http://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/88/81/34/20005627.jpg</fanart>
+<info>A tartaruga e a lebre resolvem realizar mais uma disputa, desta vez envolvendo provas de resistência. Agora, além de vizinhas muito competitivas, elas têm filhos e netos que também entram na briga de famílias.</info>
+</item>
 
 <item>
 <title>[B]3 Porquinhos e Um Bebê[COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
