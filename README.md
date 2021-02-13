@@ -1,4 +1,12 @@
 
+
+<item>
+<title>[B]3 Porquinhos e Um Bebê[COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
+<utube>IO3iRIHA-RA</utube>
+<thumbnail>https://a-static.mlcdn.com.br/1500x1500/dvd-3-porquinhos-e-um-bebe-amz/universocultural/17821/267d5421db9ca9eaeb44c9983a56a985.jpg</thumbnail>
+<fanart>https://i.pinimg.com/564x/19/c7/41/19c74125675726ecf063e60facc359f6.jpg</fanart>
+<info>Três porquinhos resolvem criar um lobinho deixado na porta de sua casa, sem saber que se tratava de um plano do terrível Lobo Mau. Agora adolescente, o jovem lobo começa a questionar sua identidade.</info>
+</item>
 <item>
 <title>[B]O SEGREDO DO VALE DA LUA[COLOR yellow](YOUTUBE)[/COLOR] - [COLOR red](HD)[/COLOR][/B] </title>
 <utube>zOrTh2aLwrI</utube>
